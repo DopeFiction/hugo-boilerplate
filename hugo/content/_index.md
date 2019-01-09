@@ -1,5 +1,10 @@
 ---
-title: "Homepage"
+title: Homepage
+menu:
+  main:
+    name: Test
+    weight: 2
+
 ---
 Hello world! I'm `content/_index.md`
 
